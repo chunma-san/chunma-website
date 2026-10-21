@@ -4,7 +4,7 @@ const input = document.querySelector('#terminal-input');
 const output = document.querySelector('#terminal-output');
 const history = [];
 let cursor = 0;
-const sections = { home: 'home', library: 'library', projects: 'projects', terminal: 'terminal' };
+const sections = { home: 'home', library: 'library', projects: 'projects', terminal: 'terminal', activity: 'github-activity' };
 function line(text, type = '') {
   const p = document.createElement('p');
   p.textContent = text;
@@ -26,7 +26,7 @@ form.addEventListener('submit', event => {
   if (command === 'clear') { output.replaceChildren(); return; }
   line('visitor@chunma:~$ ' + raw, 'command-echo');
   if (command === 'help') {
-    line('help              show this directory\nabout             a little about this place\nlibrary           open my reading & watching corner\nanime / manga     switch the library\nnovel / novels    show my novels\nprojects [query]  browse or search public projects\nlinks             show my profile links\nstatus            current public Discord presence\nhome              back to the beginning\nclear             clear terminal history on screen');
+    line('help              show this directory\nabout             a little about this place\nlibrary           open my reading & watching corner\nanime / manga     switch the library\nnovel / novels    show my novels\nprojects [query]  browse or search public projects\nactivity          show GitHub activity\nlinks             show my profile links\nstatus            current public Discord presence\nhome              back to the beginning\nclear             clear terminal history on screen');
   } else if (command === 'about' || command === 'whoami') {
     line('Chunma / Fang Yuan\nGreat Love Immortal Venerable.\nStories, code, self-hosted tools, and useful little experiments.\nEvery story leaves a trace. Every project starts with curiosity.');
   } else if (['anime', 'manga', 'novel', 'novels'].includes(command)) {

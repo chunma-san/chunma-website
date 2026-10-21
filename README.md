@@ -10,6 +10,7 @@ Source for [chunma.xyz](https://chunma.xyz), a personal website for stories, pub
 - Public GitHub project directory with a saved fallback.
 - Public Discord presence through Lanyard.
 - Responsive layout, keyboard controls, and reduced-motion support.
+- GitHub activity: 30-day UTC heatmap, issue/PR opened and closed events, push-event charts, and all-time project contributor totals. Live public API refresh with a dated fallback and a 15-minute browser cache. GitHub limits the timeline to 300 events / 30 days, so this is not a complete contribution history.
 
 ## Run locally
 
