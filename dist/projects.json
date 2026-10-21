@@ -1,0 +1,106 @@
+[
+  {
+    "name": "awesome-toolbox",
+    "full_name": "chunma-san/awesome-toolbox",
+    "html_url": "https://github.com/chunma-san/awesome-toolbox",
+    "description": "A categorized collection of apps, self-hosted services, developer tools and gaming utilities, with a searchable web catalog.",
+    "language": "HTML",
+    "fork": false
+  },
+  {
+    "name": "chunma-san",
+    "full_name": "chunma-san/chunma-san",
+    "html_url": "https://github.com/chunma-san/chunma-san",
+    "description": "Profile artwork, Discord presence and self-hosted projects.",
+    "language": "Not specified",
+    "fork": false
+  },
+  {
+    "name": "discord-archive",
+    "full_name": "chunma-san/discord-archive",
+    "html_url": "https://github.com/chunma-san/discord-archive",
+    "description": "A modular Discord event archive with audit logs, moderation records and voice dashboards.",
+    "language": "Python",
+    "fork": false
+  },
+  {
+    "name": "discord-community",
+    "full_name": "chunma-san/discord-community",
+    "html_url": "https://github.com/chunma-san/discord-community",
+    "description": "A configurable AION 2 Discord community bot with guild areas, events, roles and character profiles.",
+    "language": "Python",
+    "fork": false
+  },
+  {
+    "name": "discord-companion",
+    "full_name": "chunma-san/discord-companion",
+    "html_url": "https://github.com/chunma-san/discord-companion",
+    "description": "An anime and manga Discord companion with chapter alerts, GrapheneOS news and a private link library.",
+    "language": "C#",
+    "fork": false
+  },
+  {
+    "name": "discord-voice-keeper",
+    "full_name": "chunma-san/discord-voice-keeper",
+    "html_url": "https://github.com/chunma-san/discord-voice-keeper",
+    "description": "A silent Discord voice bot with a saved channel and automatic connection maintenance.",
+    "language": "Python",
+    "fork": false
+  },
+  {
+    "name": "music-downloader",
+    "full_name": "chunma-san/music-downloader",
+    "html_url": "https://github.com/chunma-san/music-downloader",
+    "description": "A URL-based music download helper with optional owner-restricted Telegram controls.",
+    "language": "Python",
+    "fork": false
+  },
+  {
+    "name": "music-metadata",
+    "full_name": "chunma-san/music-metadata",
+    "html_url": "https://github.com/chunma-san/music-metadata",
+    "description": "Music metadata matching and batch confidence reports for local audio collections.",
+    "language": "Python",
+    "fork": false
+  },
+  {
+    "name": "steam-idle-monitor",
+    "full_name": "chunma-san/steam-idle-monitor",
+    "html_url": "https://github.com/chunma-san/steam-idle-monitor",
+    "description": "Idle and farming interval estimates from ArchiSteamFarm Docker logs.",
+    "language": "Python",
+    "fork": false
+  },
+  {
+    "name": "teamspeak-control",
+    "full_name": "chunma-san/teamspeak-control",
+    "html_url": "https://github.com/chunma-san/teamspeak-control",
+    "description": "Discord controls for configured TeamSpeak audio-bot containers and an announcement timer.",
+    "language": "Python",
+    "fork": false
+  },
+  {
+    "name": "teamspeak-timer",
+    "full_name": "chunma-san/teamspeak-timer",
+    "html_url": "https://github.com/chunma-san/teamspeak-timer",
+    "description": "Configurable TeamSpeak announcements through TS3AudioBot APIs with local timer control.",
+    "language": "Python",
+    "fork": false
+  },
+  {
+    "name": "telegram-music",
+    "full_name": "chunma-san/telegram-music",
+    "html_url": "https://github.com/chunma-san/telegram-music",
+    "description": "A configurable Telegram audio saver with persistent processing history and local session storage.",
+    "language": "Python",
+    "fork": false
+  },
+  {
+    "name": "Wand-Enhancer",
+    "full_name": "chunma-san/Wand-Enhancer",
+    "html_url": "https://github.com/chunma-san/Wand-Enhancer",
+    "description": "chunma edition of Wand Enhancer: blue theme, automated upstream sync and reproducible Windows builds.",
+    "language": "C#",
+    "fork": true
+  }
+]

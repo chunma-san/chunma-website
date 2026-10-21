@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.openai/
+.wrangler/
+node_modules/
+*.log
+*.pem
+*.key
+*.sqlite*
+*.db
+backups/
+private/
