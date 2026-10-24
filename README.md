@@ -39,3 +39,10 @@ Cloudflare Web Analytics is integrated using its public beacon site identifier. 
 ## Rights
 
 No open-source license is granted by this repository. Third-party cover artwork and linked content retain their respective owners' rights.
+
+<!-- project-maintainer-credit -->
+## Contributors
+
+- [chunma-san](https://github.com/chunma-san) — Project maintenance and development.
+
+Original contributors retain their authorship and license notices. See the repository history for individual contributions.
