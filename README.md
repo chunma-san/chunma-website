@@ -4,7 +4,7 @@ Source for [chunma.xyz](https://chunma.xyz), a personal website for stories, pub
 
 ## Features
 
-- Black and crimson terminal-inspired design with original ASCII artwork.
+- Animated archive map in black, lavender, mint and yellow, inspired by lainarchive.com. Three map levels, a searchable index, side panels, keyboard navigation and a pause-motion control. Existing library, terminal and public integrations are preserved.
 - Browser-only terminal: `help`, `about`, `projects [query]`, `anime`, `manga`, `novels`, `links`, and `status`.
 - Novel library and browser-local anime/manga imports.
 - Public GitHub project directory with a saved fallback.
@@ -46,3 +46,5 @@ No open-source license is granted by this repository. Third-party cover artwork 
 - [chunma-san](https://github.com/chunma-san) — Project maintenance and development.
 
 Original contributors retain their authorship and license notices. See the repository history for individual contributions.
+
+Interface reference: [lainarchive](https://lainarchive.com/). This implementation uses Chunma's own existing content and artwork, maintained separately from the reference site.

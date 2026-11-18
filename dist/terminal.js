@@ -14,7 +14,7 @@ function line(text, type = '') {
   output.scrollTop = output.scrollHeight;
 }
 function go(section) {
-  document.getElementById(section)?.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+  location.hash = section;
 }
 form.addEventListener('submit', event => {
   event.preventDefault();
